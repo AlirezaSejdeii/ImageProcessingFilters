@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvLLM5j/52LZuzOV84usd93HlHMmmdzn/lIKyoDCAX1nrgNbh73CCOUiK6nf3qOE0xpTyRCJXlA2r3NuxShA4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Desk\\Uni\\Bachler\\S3\\ImageProccesing\\Second\\histogram\\HistogramImagEqualization\\ImageSharpner\\ImageSharpner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silver\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Silver\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

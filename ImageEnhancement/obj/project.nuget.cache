@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGFaKweBH7ftdxoqVsfJwk74iWhdA0vfR2+WoTkc9pH3+qkH5Qs1k179xEwzoaxczGO4xfK+yV4WRpvFYJFxnw==",
+  "success": true,
+  "projectFilePath": "D:\\Desk\\Uni\\Bachler\\S3\\ImageProccesing\\Second\\histogram\\HistogramImagEqualization\\ImageEnhancement\\ImageEnhancement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silver\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Silver\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMlGTgIH7NHXOTqeNjpk3iCZetT88ksVICFe/va0Nis4lnEAYwafE61S/Npwfl8cKvbBUa9AvUeIAzOgG15J6g==",
+  "success": true,
+  "projectFilePath": "D:\\Desk\\Uni\\Bachler\\S3\\ImageProccesing\\Second\\histogram\\HistogramImagEqualization\\EgeDetection\\EgeDetection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silver\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Silver\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

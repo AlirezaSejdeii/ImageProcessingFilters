@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawHistogram", "DrawHistogram\DrawHistogram.csproj", "{504B81E1-6040-4C44-AE39-9625DE9A8329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSoftMask", "ImageSoftMask\ImageSoftMask.csproj", "{1A95922C-D688-4D16-89EC-946924E90799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSharpner", "ImageSharpner\ImageSharpner.csproj", "{AED2AAE9-FC85-4DC2-A380-520757DEC5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEnhancement", "ImageEnhancement\ImageEnhancement.csproj", "{2480EDD1-BEE7-4DE3-BB7D-1AD04991BDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgeDetection", "EgeDetection\EgeDetection.csproj", "{4F917ABB-ADAA-473A-A635-D436340404DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanyFilter", "CanyFilter\CanyFilter.csproj", "{FF096AC6-04B1-4495-8B18-E2DD4C715DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageNoise", "ImageNoise\ImageNoise.csproj", "{48A04FA1-52AA-440D-A3FC-71868A0B2B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504B81E1-6040-4C44-AE39-9625DE9A8329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504B81E1-6040-4C44-AE39-9625DE9A8329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504B81E1-6040-4C44-AE39-9625DE9A8329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504B81E1-6040-4C44-AE39-9625DE9A8329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A95922C-D688-4D16-89EC-946924E90799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A95922C-D688-4D16-89EC-946924E90799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A95922C-D688-4D16-89EC-946924E90799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A95922C-D688-4D16-89EC-946924E90799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED2AAE9-FC85-4DC2-A380-520757DEC5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED2AAE9-FC85-4DC2-A380-520757DEC5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED2AAE9-FC85-4DC2-A380-520757DEC5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED2AAE9-FC85-4DC2-A380-520757DEC5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2480EDD1-BEE7-4DE3-BB7D-1AD04991BDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2480EDD1-BEE7-4DE3-BB7D-1AD04991BDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2480EDD1-BEE7-4DE3-BB7D-1AD04991BDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2480EDD1-BEE7-4DE3-BB7D-1AD04991BDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F917ABB-ADAA-473A-A635-D436340404DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F917ABB-ADAA-473A-A635-D436340404DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F917ABB-ADAA-473A-A635-D436340404DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F917ABB-ADAA-473A-A635-D436340404DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF096AC6-04B1-4495-8B18-E2DD4C715DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF096AC6-04B1-4495-8B18-E2DD4C715DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF096AC6-04B1-4495-8B18-E2DD4C715DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF096AC6-04B1-4495-8B18-E2DD4C715DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A04FA1-52AA-440D-A3FC-71868A0B2B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A04FA1-52AA-440D-A3FC-71868A0B2B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A04FA1-52AA-440D-A3FC-71868A0B2B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A04FA1-52AA-440D-A3FC-71868A0B2B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
