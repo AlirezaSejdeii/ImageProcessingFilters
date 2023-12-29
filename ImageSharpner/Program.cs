@@ -4,9 +4,11 @@ using System.Drawing.Imaging;
 // Load the input image
 Bitmap inputImage = new Bitmap("input.png");
 
-Bitmap output = ApplyLaplacianFilter(inputImage);
+Bitmap laplacianFilter = ApplyLaplacianFilter(inputImage);
+Bitmap sharpeningFilter = ApplySharpeningFilter(inputImage);
 
-output.Save("sharp-image-output.jpg", ImageFormat.Jpeg);
+laplacianFilter.Save("laplacian-image-output.jpg", ImageFormat.Jpeg);
+sharpeningFilter.Save("sharpening-image-output.jpg", ImageFormat.Jpeg);
 
 
 static Bitmap ApplyLaplacianFilter(Bitmap input)
@@ -42,4 +44,59 @@ static Bitmap ApplyLaplacianFilter(Bitmap input)
     }
 
     return output;
+}
+
+static Bitmap ApplySharpeningFilter(Bitmap input)
+{
+    int width = input.Width;
+    int height = input.Height;
+    Bitmap output = new Bitmap(width, height);
+
+    // Sharpening Kernel
+    int[,] kernel = new int[,]
+    {
+        { -1, -1, -1 },
+        { -1, 9, -1 },
+        { -1, -1, -1 }
+    };
+
+    for (int i = 1; i < width - 1; i++)
+    {
+        for (int j = 1; j < height - 1; j++)
+        {
+            output.SetPixel(i, j, ApplyKernel(input, kernel, i, j));
+        }
+    }
+
+    return output;
+}
+
+static Color ApplyKernel(Bitmap input, int[,] kernel, int x, int y)
+{
+    int red = 0, green = 0, blue = 0;
+    int kernelWidth = kernel.GetLength(0);
+    int kernelHeight = kernel.GetLength(1);
+    int halfKernelWidth = kernelWidth / 2;
+    int halfKernelHeight = kernelHeight / 2;
+
+    for (int i = 0; i < kernelWidth; i++)
+    {
+        for (int j = 0; j < kernelHeight; j++)
+        {
+            int pixelX = x + (i - halfKernelWidth);
+            int pixelY = y + (j - halfKernelHeight);
+
+            Color pixelColor = input.GetPixel(pixelX, pixelY);
+            red += pixelColor.R * kernel[i, j];
+            green += pixelColor.G * kernel[i, j];
+            blue += pixelColor.B * kernel[i, j];
+        }
+    }
+
+    // Clamp color values to be between 0 and 255
+    red = Math.Max(0, Math.Min(255, red));
+    green = Math.Max(0, Math.Min(255, green));
+    blue = Math.Max(0, Math.Min(255, blue));
+
+    return Color.FromArgb(red, green, blue);
 }

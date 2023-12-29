@@ -17,278 +17,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa67968b-48ad-4c66-9f02-e00ef8b9c399" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ImageProcessingFilters/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ImageProcessingFilters/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ImageProcessingFilters/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/CanyFilter.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/CanyFilter.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/CanyFilter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/CanyFilter.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/CanyFilter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/CanyFilter.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/canny_result.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/CanyFilter.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/CanyFilter.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/CanyFilter.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/CanyFilter.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/ref/CanyFilter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/Debug/net7.0/refint/CanyFilter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanyFilter/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/DrawHistogram.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/DrawHistogram.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/DrawHistogram.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/DrawHistogram.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/DrawHistogram.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/DrawHistogram.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/histogram-equalization-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/histogram-stretching-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/input.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/input.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/DrawHistogram.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/ref/DrawHistogram.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/Debug/net7.0/refint/DrawHistogram.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/DrawHistogram.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/DrawHistogram.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/DrawHistogram.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawHistogram/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/EgeDetection.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/EgeDetection.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/EgeDetection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/EgeDetection.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/EgeDetection.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/EgeDetection.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/canny_result.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/log_result.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/marr_hilderth.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/prewitt_result.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/roberts_result.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/bin/Debug/net7.0/sobel_result.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/EgeDetection.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/ref/EgeDetection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/Debug/net7.0/refint/EgeDetection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/EgeDetection.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/EgeDetection.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/EgeDetection.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EgeDetection/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/ImageEnhancement.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/ImageEnhancement.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/ImageEnhancement.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/ImageEnhancement.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/ImageEnhancement.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/ImageEnhancement.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/gamma_correction.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/linear_enhancement.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/logarithmic_enhancement.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/piecewise_linear_enhancement.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/power_law_enhancement.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ImageEnhancement.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/ref/ImageEnhancement.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/Debug/net7.0/refint/ImageEnhancement.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/ImageEnhancement.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/ImageEnhancement.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/ImageEnhancement.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageEnhancement/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/ImageNoise.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/bin/Debug/net7.0/ImageNoise.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/bin/Debug/net7.0/ImageNoise.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/bin/Debug/net7.0/ImageNoise.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/bin/Debug/net7.0/ImageNoise.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/bin/Debug/net7.0/ImageNoise.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/bin/Debug/net7.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ImageNoise.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/ref/ImageNoise.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/Debug/net7.0/refint/ImageNoise.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/ImageNoise.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/ImageNoise.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/ImageNoise.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageNoise/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageProcessingFilters.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/ImageSharpner.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/input.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ref/ImageSharpner.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/refint/ImageSharpner.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/ImageSharpner.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/ImageSharpner.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/ImageSharpner.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSharpner/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/ImageSoftMask.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/ImageSoftMask.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/ImageSoftMask.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/ImageSoftMask.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/ImageSoftMask.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/ImageSoftMask.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/average10x10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/average3x3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/average5x5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/gaussian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ImageSoftMask.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/ref/ImageSoftMask.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/Debug/net7.0/refint/ImageSoftMask.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/ImageSoftMask.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/ImageSoftMask.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/ImageSoftMask.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageSoftMask/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HistogramImagEqualization/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HistogramImagEqualization/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageSharpner/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImageSharpner/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ImageSharpner/bin/Debug/net7.0/ImageSharpner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ImageSharpner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ref/ImageSharpner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/ref/ImageSharpner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/refint/ImageSharpner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ImageSharpner/obj/Debug/net7.0/refint/ImageSharpner.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -337,7 +73,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.EgeDetection">
+  <component name="RunManager" selected=".NET Project.ImageSharpner">
     <configuration name="CanyFilter" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -528,7 +264,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703759712123</updated>
       <workItem from="1703759713857" duration="7252000" />
-      <workItem from="1703853223700" duration="11873000" />
+      <workItem from="1703853223700" duration="13528000" />
     </task>
     <servers />
   </component>
